@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 👨‍💻 Always open to solve new challenges
-- 🎓 Studying Information Systems and Telecommunications Engineering (LETI) at Instituto Superior Técnico
-- 📫 How to reach me: sofiaromeiro23@gmail.com
+- 👨‍💻  Always open to solve new challenges
+- 🎓  Studying Information Systems and Telecommunications Engineering (LETI) at Instituto Superior Técnico
+- 📫  How to reach me: sofiaromeiro23@gmail.com
 
 __________________________________________________
 
