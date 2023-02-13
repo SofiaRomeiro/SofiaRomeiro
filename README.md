@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 👨‍💻 Working on Scientific Investigation - Networking and Communications Department
+- 🎓 Teaching Introduction to Computer Networks
 - 🎓 Studying Information Systems and Telecommunications Engineering (LETI) at Instituto Superior Técnico
 - 📫 How to reach me: sofiaromeiro23@gmail.com
 
