@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 - 👨‍💻 Working on Scientific Investigation - Networking and Communications Department
-- 🎓 Teaching Introduction to Computer Networks
-- 🎓 Studying Information Systems and Telecommunications Engineering (LETI) at Instituto Superior Técnico
-- 📫 How to reach me: sofiaromeiro23@gmail.com
+- 🎓 Teaching [Introduction to Computer Networks](https://fenix.tecnico.ulisboa.pt/cursos/lerc/disciplina-curricular/845953938490016) and [Mobile Communication Networks](https://fenix.tecnico.ulisboa.pt/cursos/merc/disciplina-curricular/1127428915200319) 
+- 🎓 Studying [Telecommunications and Informatics Engineering](https://fenix.tecnico.ulisboa.pt/cursos/merc/descricao) @ Instituto Superior Técnico
+- [Masters & PhD](https://doctoralschool.tecnico.ulisboa.pt/doctoral-programmes/phd-fast-track/#What-is-it) Student 
+- 📫 How to reach me: sofiaromeiro23@tecnico.ulisboa.pt
 
 ## :trophy: My Github Stats:
 __________________________________________________
