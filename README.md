@@ -13,7 +13,7 @@ __________________________________________________
 
 ___________________________________________________
 
-![Git Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SofiaRomeiro&theme=tokyonight&count_private=true&langs_count=10&layout=compact)
+![Git Stats]()
 
 ___________________________________________________
 
