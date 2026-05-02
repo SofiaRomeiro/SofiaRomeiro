@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-- 👨‍💻 Working on Scientific Investigation - Networking and Cybersecurity Department
-- 🎓 Teaching [Introduction to Computer Networks](https://fenix.tecnico.ulisboa.pt/cursos/lerc/disciplina-curricular/845953938490016) and [Mobile Communication Networks](https://fenix.tecnico.ulisboa.pt/cursos/merc/disciplina-curricular/1127428915200319) 
-- 🎓 Studying [Telecommunications and Informatics Engineering](https://fenix.tecnico.ulisboa.pt/cursos/merc/descricao) @ Instituto Superior Técnico
-- 🎓 [Masters & PhD](https://doctoralschool.tecnico.ulisboa.pt/doctoral-programmes/phd-fast-track/#What-is-it) Student 
+- 🎓 PhD Student in [Computer Science]([https://fenix.tecnico.ulisboa.pt/cursos/merc/descricao](https://fenix.tecnico.ulisboa.pt/cursos/deic)) @ Instituto Superior Técnico
 - 📫 How to reach me: sofiaromeiro23@tecnico.ulisboa.pt
 
 ## :trophy: My Github Stats:
